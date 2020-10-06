@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1f9ccc19ec4dc6489abed08cddc6abe
+timeCreated: 1497392722
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - TrialStart: {instanceID: 0}
+  - NextTrial: {instanceID: 0}
+  - ExpFinish: {instanceID: 0}
+  - Stimulus: {instanceID: 0}
+  - Controller: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
